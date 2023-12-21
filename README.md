@@ -4,7 +4,7 @@
 
 - 🌼Sou Tecnica em desenvolvimento de sistemas
 - 🌼Estudante de Ciência da computação
-- 🌼Formada pela Generation Brasil na turma 55  e estudante de da turma 1 de aws.
+- 🌼Formada pela Generation Brasil na turma 55  e estudante da turma 1 de AWS.
 - 🌼Full Stack Devolper Java.
 - 🌼Pronomes: Ela/Dela
 ##
