@@ -10,7 +10,7 @@
 
 Profissional de Tecnologia da Informação atuando ativamente na gestão de ambientes de sistemas e desenvolvimento de software. Tenho forte foco na construção de aplicações escaláveis, arquitetura de software e implantação de portais corporativos. Como estudante de Ciência da Computação, busco constantemente integrar fundamentos acadêmicos com as melhores práticas de mercado.
 
-*   **Foco Técnico:** Desenvolvimento Back-end, Programação Orientada a Objetos, Modelagem de Dados e Gestão de Servidores (Stack LAMP).
+*   **Foco Técnico:** Desenvolvimento Back-end, Programação Orientada a Objetos e Modelagem de Dados.
 *   **Experiência Prática:** Atuação em implantações de portais (como ambientes headless), gestão de bancos de dados relacionais e monitoramento de tráfego/analytics.
 *   **Comunidade e Compartilhamento:** Palestrante técnica ativa (com foco no ecossistema Ruby/Rails) e promotora de capacitação interna em arquitetura de dados e desenvolvimento full-stack.
 
